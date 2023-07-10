@@ -1,6 +1,7 @@
 # UAS_Nurokhim_DatabaseAPIProject
 
 <h1>Nama: Nurokhim</h1>
+<h1>Nim: 312010064</h1>
 <h1>Kelas: TI.20.D.1</h1>
 <h1>Matkul : Pemograman Mobile</h1>
 1. layout
