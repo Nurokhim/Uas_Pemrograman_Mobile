@@ -7,28 +7,35 @@
 
  - activity_form.xml
      <br>
-     ![image](https://github.com/Nurokhim/UAS_Nurokhim_DatabaseAPIProject/assets/101645216/da77019c-2724-49c6-81c8-603ea8966f5c)
+![image](https://github.com/Nurokhim/Uas_Pemrograman_Mobile/assets/101801920/166d83a5-4562-4807-be80-45d3be9f4506)
+
  - activity_detail_handphone.xml
      <br>
-    ![image](https://github.com/Nurokhim/UAS_Nurokhim_DatabaseAPIProject/assets/101645216/bc424d5c-f212-44b5-88b2-f067b4f6f490)
+   ![image](https://github.com/Nurokhim/Uas_Pemrograman_Mobile/assets/101801920/eeefe916-d2d6-419b-a641-55b4919d74f4)
+
  - activity_form_handphone.xml
      <br>
-   ![image](https://github.com/Nurokhim/UAS_Nurokhim_DatabaseAPIProject/assets/101645216/0a985dbb-7c6a-449a-8e80-019a0a2af26f)
+![image](https://github.com/Nurokhim/Uas_Pemrograman_Mobile/assets/101801920/b4ca37f5-e96a-4192-b0d0-2dd2d9180287)
+
  - list_row.xml
      <br>
-  ![image](https://github.com/Nurokhim/UAS_Nurokhim_DatabaseAPIProject/assets/101645216/81128705-ac5e-412a-a9fb-ffb2b9441012)
+![image](https://github.com/Nurokhim/Uas_Pemrograman_Mobile/assets/101801920/71458dff-3931-463d-a1ea-06e4ca44cfc3)
+
 
 2. menu
  - activity_main.xml
      <br>
-    ![image](https://github.com/Nurokhim/UAS_Nurokhim_DatabaseAPIProject/assets/101645216/ab7860b2-2478-4579-be90-195f829ef931)
+    ![image](https://github.com/Nurokhim/Uas_Pemrograman_Mobile/assets/101801920/4e4dd063-84f5-464d-92cb-c8b244232cb2)
+
 
  - activity_main_action.xml
      <br>
-    ![image](https://github.com/Nurokhim/UAS_Nurokhim_DatabaseAPIProject/assets/101645216/ef05e785-9557-41ff-bebe-182a69ee031c)
+ ![image](https://github.com/Nurokhim/Uas_Pemrograman_Mobile/assets/101801920/6be18325-8aa2-4a01-8811-932610b867d8)
+
 
  - form_handphone.xml
      <br>
-   ![image](https://github.com/Nurokhim/UAS_Nurokhim_DatabaseAPIProject/assets/101645216/a071015b-7afc-4c2b-b4a1-47f76b535403)
+  ![image](https://github.com/Nurokhim/Uas_Pemrograman_Mobile/assets/101801920/706765e6-9b1f-4156-8d84-bcf157ea9830)
+
 
 
